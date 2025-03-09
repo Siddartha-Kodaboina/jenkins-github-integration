@@ -2,4 +2,4 @@
 
 This repository is a sample Node.js application for Docker's documentation.
 
-Test 1
+Test 2
